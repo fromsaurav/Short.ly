@@ -37,8 +37,8 @@ A full-stack URL shortener with an analytics dashboard — similar to Bitly — 
 
 Use the following credentials to test the application:
 
-- **Email**: `intern@dacoid.com`
-- **Password**: `Test123`
+- **Email**: `admin`
+- **Password**: `password`
 
 ---
 
