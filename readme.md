@@ -80,8 +80,8 @@ JWT_SECRET=your_secret_key
 
 ```json
 {
-    "email":"intern@dacoid.com",
-    "password":"Test123"
+    "email":"user@gmail.com",
+    "password":"password"
 }
 ```
 
@@ -92,7 +92,7 @@ JWT_SECRET=your_secret_key
     "token": "the token",
     "user": {
         "id": "67f6*********************b",
-        "email": "intern1@dacoid.com",
+        "email": "user@gmail.com",
         "message": "user signed up sucessfully"
     }
 }
@@ -118,7 +118,7 @@ JWT_SECRET=your_secret_key
     "token": "the token",
     "user": {
         "id": "67f6*********************b",
-        "email": "intern@dacoid.com",
+        "email": "user@gmail.com",
         "message": "user logged in sucessfully"
     }
 }
